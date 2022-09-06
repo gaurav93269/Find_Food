@@ -1,0 +1,56 @@
+body {
+    background : url(back.jpg) no-repeat;
+   background-size: cover;
+    height: 100%;
+}
+div {
+       color: black;
+       position: absolute;
+    top: 10%;
+       left: 50%;
+       transform: translate(-50%,50%)
+}
+h1{
+    text-align: center;
+    font-size: 2.2rem;
+
+}
+p{
+    text-align: center;
+    font-style:normal;
+    font-size: 0.6cm;
+}
+span{
+    font-size: 1.5rem;
+    margin-left: 5rem;
+    color:black;
+}
+form{
+display: block;
+margin-right: auto;
+margin-left: auto;
+border-radius: 2rem;
+padding: 1rem;
+border: none;
+text-align: center;
+
+outline: none;
+}
+input{
+    width:80%;
+    text-align: center;
+    border-radius: 2rem;
+    padding: .5rem;
+
+}
+button{
+   
+    width: 30%;
+    text-align:center;
+    background-color:aqua;
+    color: black;
+    padding: .4rem;
+    border-radius:.7rem;
+}
+
+/* PRODUCT SECTION*/
